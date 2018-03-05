@@ -1,0 +1,85 @@
+[33mcommit 7e86a1916e415bda3872df1b47a5e7488aead457[m[33m ([m[1;36mHEAD -> [m[1;32madd-echo[m[33m, [m[1;31morigin/add-echo[m[33m)[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Mon Mar 5 08:56:36 2018 -0800
+
+    feat: add echo route
+
+[33mcommit 6de04176b50911db13d6cf46d30e1e6b3629bcff[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Wed Sep 20 16:11:45 2017 -0700
+
+    fix: change db path to project folder (#21)
+    
+    closes #21
+
+[33mcommit 8722c121965408c2dd9c76e8f9a73f54ba3f92b9[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Wed Sep 20 16:08:56 2017 -0700
+
+    feat: log request auth info (#19)
+    
+    closes #19
+
+[33mcommit 30cdbf2e2c57155f6f70225a3164b663ae18a6c5[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Wed Sep 20 16:04:55 2017 -0700
+
+    feat: add 401 status code for unauthorized requests (#17)
+
+[33mcommit 3f2732dfc0ea3b0079fc542b609ed814b46b0766[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Mon Sep 18 15:22:11 2017 -0700
+
+    fix: remove extra dep check (#15)
+
+[33mcommit 3c34209a6c838e306ff0dc6c31edc4a946f9049f[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Mon Sep 18 15:13:22 2017 -0700
+
+    feat: add authorization to model endpoints (#13)
+
+[33mcommit 09e0d04a629bad8f565e4db2a45c5d66a90d61b1[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Mon Sep 18 14:46:13 2017 -0700
+
+    feat: add CORS support (#11)
+
+[33mcommit d31a12829b1655c9178f3b81309842f64ef8605c[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Mon Sep 18 14:37:04 2017 -0700
+
+    feat: add routes for Things model (#9)
+    
+    also all endpoints now receive query object
+
+[33mcommit 708c2f68a2184f7fe75ec6683bf266aa5d9eb459[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Mon Sep 18 14:25:54 2017 -0700
+
+    feat: add Things model (#7)
+    
+    also adds db healthcheck and dotenv config
+
+[33mcommit a2b30394ea37549531a0110e3aced981e35d0967[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Mon Sep 18 13:59:50 2017 -0700
+
+    feat: add http-hash-router (#5)
+
+[33mcommit 76e9a12b9c53eddae93e7ac18a18e00f6a62f545[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Mon Sep 18 13:37:05 2017 -0700
+
+    chore: add missing and extra dependency checks (#3)
+
+[33mcommit af00d8523e270a4e90e748b06816abf4b64be14b[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Mon Sep 18 13:32:11 2017 -0700
+
+    chore: use `nyc` for test coverage (#1)
+
+[33mcommit aa2f234fe1e73a5e1a72d4a92b44cb273de117a2[m
+Author: David Guttman <david@davidguttman.com>
+Date:   Fri Sep 15 15:51:13 2017 -0700
+
+    fiat lux
